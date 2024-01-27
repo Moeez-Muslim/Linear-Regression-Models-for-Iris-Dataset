@@ -38,7 +38,7 @@ git clone https://github.com/Moeez-Muslim/Linear-Regression-Models-for-Iris-Data
 2. Navigate to the project directory:
 
 ```bash
-cd linear-regression-iris
+cd Linear-Regression-Models-for-Iris-Dataset
 ```
 
 3. Run the Jupyter Notebook:
