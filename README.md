@@ -55,7 +55,7 @@ The R-squared values suggest that Model 1 (using petal length) provides a better
 
 ## Contributors
 
-- Your Name <mail2moeezmuslim@gmail.com>
+- Moeez Muslim <mail2moeezmuslim@gmail.com>
 
 ## License
 
